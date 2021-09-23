@@ -1,6 +1,6 @@
 <p align="center"><img src="/art/socialcard.png" alt="Social Card of Laravel Activity Log"></p>
 
-# A modern backup solution for Laravel apps
+# A modern backup solution for Laravel apps:
 
 [![Latest Stable Version](https://poser.pugx.org/spatie/laravel-backup/v/stable?format=flat-square)](https://packagist.org/packages/spatie/laravel-backup)
 [![MIT Licensed](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
@@ -75,6 +75,6 @@ We publish all received postcards [on our company website](https://spatie.be/ope
 
 And a special thanks to [Caneco](https://twitter.com/caneco) for the logo ✨
 
-## License
+## License:
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
